@@ -1,9 +1,9 @@
 
 Skills
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 
 <!--GitHub Stats, Most Used Languages-->
 ![SeongUkJeong0123's github stats](https://github-readme-stats.vercel.app/api?username=SeongUkJeong0123&show_icons=true)[![SeongUkJeong0123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongUkJeong0123&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SeongUkJeong0123)
