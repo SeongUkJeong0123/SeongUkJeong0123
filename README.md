@@ -1,8 +1,6 @@
-### Hi there 👋
 
-<!--GitHub Stats-->
+<!--GitHub Stats, Most Used Languages-->
 ![SeongUkJeong0123's github stats](https://github-readme-stats.vercel.app/api?username=SeongUkJeong0123&show_icons=true)
-<!--MostUsedLanguages-->
 [![SeongUkJeong0123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongUkJeong0123&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SeongUkJeong0123)
 
 
