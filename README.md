@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--GitHub Stats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongUkJeong0123&show_icons=true&theme=radical)
+
 <!--
 **SeongUkJeong0123/SeongUkJeong0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
